@@ -81,7 +81,7 @@ A conversão de 100.0 °C para Fahrenheit é 212.00°F
 ```
 unit-converter-cli/
 │
-├── conversor.py   # Código principal da aplicação
+├── main.py   # Código principal da aplicação
 └── README.md      # Documentação do projeto
 ```
 
