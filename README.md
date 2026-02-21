@@ -106,5 +106,5 @@ unit-converter-cli/
 
 Feito por **Mateus Alcantara** — sinta-se à vontade para entrar em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-blue?logo=linkedin)](https://www.linkedin.com/in/mateusalcantara13/)
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/MateusAlcantara13/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus--Alcantara-blue?logo=linkedin)](https://www.linkedin.com/in/mateusalcantara13/)
+[![GitHub](https://img.shields.io/badge/GitHub-MateusAlcantara13-black?logo=github)](https://github.com/MateusAlcantara13/)
